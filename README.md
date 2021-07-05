@@ -1,1 +1,8 @@
-# fusionsonic
+# About
+
+# Documentation
+lol
+
+# Requirements
+
+# Credits
