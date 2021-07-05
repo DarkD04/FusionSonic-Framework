@@ -1,5 +1,3 @@
-# About
-
 # Documentation
 lol
 
