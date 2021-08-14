@@ -4,6 +4,7 @@ Coming soon!
 
 # Requirements
 Clickteam Fusion 2.5+ (Doesn't work without DLC, not gonna support it.)
+#
 Extension and Effects from "Needed Files" Folder
 
 # Credits
