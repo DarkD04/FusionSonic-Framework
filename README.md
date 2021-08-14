@@ -10,5 +10,7 @@ Extension and Effects from "Needed Files" Folder
 # Credits
 
 Programmer and Creator: DarkD04
+#
 Art: Beta Nexus, joshyflip
+#
 Extra Code: Yonatankr, Nihil, YohananDiamond, Damizean
