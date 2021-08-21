@@ -8,6 +8,8 @@ Coming soon!
 Clickteam Fusion 2.5+ (Doesn't work without DLC, not gonna support it.)
 #
 Extension and Effects from "Needed Files" Folder
+#
+If youre designing a level you need to use 16x16 grid or else angle detection will freak out
 
 # Credits
 
